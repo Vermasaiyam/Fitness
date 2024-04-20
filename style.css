@@ -42,7 +42,7 @@ body {
 
 .header {
   height: 800px;
-  background-image: url(./assets/heroimg.png);
+  background-image: url(./heroimg.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
